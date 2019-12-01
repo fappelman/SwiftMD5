@@ -21,3 +21,4 @@ DerivedData
 Carthage/Build
 Carthage/Checkouts
 
+.build
